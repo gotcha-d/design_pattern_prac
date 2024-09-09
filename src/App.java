@@ -3,10 +3,16 @@ public class App {
         // Iterator パターン
         // iterator.Main.main();
 
-        // Adaptorパターン 継承ケース
+        // Adapterパターン 継承ケース
         // adaptor.Main.main();
 
-        // Adaptorパターン インスタンスケース
-        adaptor_instance.Main.main();
+        // Adapterパターン インスタンスケース
+        // adaptor_instance.Main.main();
+
+        // Adapterパターン 練習問題
+        // adapter_prac.Main.main();
+
+        // Template Methodパターン
+        template_method.Main.main();
     }
 }
