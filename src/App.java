@@ -13,6 +13,9 @@ public class App {
         // adapter_prac.Main.main();
 
         // Template Methodパターン
-        template_method.Main.main();
+        // template_method.Main.main();
+
+        // Factory Methodパターン
+        factory_method.Main.main();
     }
 }
