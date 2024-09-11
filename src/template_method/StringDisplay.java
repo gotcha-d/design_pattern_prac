@@ -1,6 +1,8 @@
 package template_method;
 
-public class StringDisplay extends AbstractDisplay {
+// public class StringDisplay extends AbstractDisplay {
+public class StringDisplay implements DisplayInterface {
+
     
     // 表示すべき文字
     private String string;
