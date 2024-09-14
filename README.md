@@ -1,3 +1,6 @@
+## About
+このソースは、『javaで学ぶデザインパターン入門 第2版』を学んだ時のもの
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
