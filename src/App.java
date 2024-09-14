@@ -19,6 +19,13 @@ public class App {
         // factory_method.Main.main();
 
         // Singletonパターン
-        singleton.Main.main();
+        // singleton.Main.main();
+
+        // Singleton練習
+        // singleton.TicketMakerClient.main(); 
+        // singleton.Main.main();
+
+        // Prototypeパターン
+        prototype.Main.main();
     }
 }
