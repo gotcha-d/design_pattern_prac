@@ -16,6 +16,9 @@ public class App {
         // template_method.Main.main();
 
         // Factory Methodパターン
-        factory_method.Main.main();
+        // factory_method.Main.main();
+
+        // Singletonパターン
+        singleton.Main.main();
     }
 }
