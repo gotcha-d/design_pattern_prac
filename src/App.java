@@ -26,6 +26,10 @@ public class App {
         // singleton.Main.main();
 
         // Prototypeパターン
-        prototype.Main.main();
+        // prototype.Main.main();
+
+        // Builderパターン
+        builder.Main.main("text");
+        builder.Main.main("html");
     }
 }
